@@ -11,7 +11,7 @@ public:
     std::string id() const;
 
     void start();
-    
+
     void stop();
 
 private:
