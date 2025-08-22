@@ -5,7 +5,8 @@
             "includePath": [
                 "${workspaceFolder}/**",
                 "${workspaceFolder}/cpp/mesh_core/include",
-                "${workspaceFolder}/cpp/protocols/include"
+                "${workspaceFolder}/cpp/protocols/include",
+                "${workspaceFolder}/cpp/utils/include"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
